@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react() 
-  ]
+  ],
+  base: '/Crocodic_Week10/',
 })
